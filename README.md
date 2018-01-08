@@ -20,6 +20,8 @@
 </p>
 
 ## Motivation
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/simonepri/geo-maps.svg)](https://greenkeeper.io/)
 The purpose of this project is to **programmatically** extract maps from open
 databases like [OpenStreetMap](https://www.openstreetmap.org) providing you
 with a ready to use GeoJSON map that fits your needs.  
